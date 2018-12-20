@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "baki cakici"
 title_separator          : "-"
 name                     : &name "Baki Cakici"
-description              : &description "Assistant professor at IT University of Copenhagen"
+description              : &description "Assistant professor at the IT University of Copenhagen"
 url                      : https://bakicakici.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bakicakici/bakicakici.github.io"
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : baki cakici
-  avatar           : #"profile.png"
+  avatar           : "profile.png"
   bio              : 
-  location         :
-  employer         : "https://en.itu.dk/"
+  location         : [technologies in practice](https://itu.dk/tip/)
+  employer         : [ETHOS lab](https://ethos.itu.dk/)
   googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
