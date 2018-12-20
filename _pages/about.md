@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the [Technologies in Practice](https://itu.dk/tip/) research group at the [IT University of Copenhagen](https://en.itu.dk/). My research interests include surveillance, classification, politics of numbers, and the history of computing. In my research, I draw on theories from the field of science and technology studies.
+I am an assistant professor in the [Technologies in Practice](https://itu.dk/tip/) research group at the [IT University of Copenhagen](https://en.itu.dk/). In my research, I draw on theories from the field of science and technology studies. My research interests include surveillance, classification, politics of numbers, and the history of computing.
 
 I have previously worked as a postdoctoral researcher at the [Department of Sociology](https://www.gold.ac.uk/sociology/) at [Goldsmiths, University of London](http://www.gold.ac.uk/), within the [European Research Council](https://erc.europa.eu/) funded research project [Peopling Europe: How data make a people (ARITHMUS)](http://arithmus.eu/).
 
