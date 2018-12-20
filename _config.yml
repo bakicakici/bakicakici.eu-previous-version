@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : baki cakici
-  avatar           : "profile.png"
-  bio              : 
-  location         : Copenhagen, Denmark
-  employer         : "[ETHOS lab](https://ethos.itu.dk/)"
+  name             : 
+  avatar           : 
+  bio              : "Assistant Professor at IT University of Copenhagen"
+  location         : 
+  employer         : 
   googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
