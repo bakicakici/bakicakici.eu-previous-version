@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             :
-  avatar           : "profile.png"
+  name             : baki cakici
+  avatar           : #"profile.png"
   bio              : 
   location         :
-  employer         : #"it university of copenhagen"
+  employer         : "https://en.itu.dk/"
   googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
