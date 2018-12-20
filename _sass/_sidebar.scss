@@ -69,24 +69,6 @@
    Author profile and links
    ========================================================================== */
 
-.author__avatar {
-  display: none;
-  vertical-align: top;
-  width: 36px;
-  height: 36px;
-
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
-  }
-
-  img {
-    max-width: 175px;
-    border-radius: 50%;
-  } 
-}
-
 .author__name {
   margin: 0;
 
