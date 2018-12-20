@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "BAKI CAKICI"
+title                    : "baki cakici"
 title_separator          : "-"
 name                     : &name "Baki Cakici"
 description              : &description "Assistant professor at the IT University of Copenhagen"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             :
   avatar           : 
-  bio              : "Assistant Professor at IT University of Copenhagen"
+  bio              :
   location         : 
   employer         : 
   googlescholar    : 
