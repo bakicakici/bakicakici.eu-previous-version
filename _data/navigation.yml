@@ -3,11 +3,11 @@ main:
   - title: "publications"
     url: /publications/
 
-  - title: "talks"
-    url: /talks/    
+#  - title: "talks"
+#    url: /talks/    
 
-  - title: "teaching"
-    url: /teaching/    
+#  - title: "teaching"
+#    url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
