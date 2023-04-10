@@ -1,9 +1,9 @@
 ---
 title: "Methods as Forces of Subjectivation: Experiments in the Remaking of Official Statistics"
 collection: publications
-permalink: /publication/2019-11-11-forces-of-subjectivation
+permalink: /publication/2020-03-03-forces-of-subjectivation
 excerpt: 'Baki Cakici and Evelyn Ruppert'
-date: 2019-11-11
+date: 2020-03-03
 venue: 'Journal of Cultural Economy'
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/17530350.2019.1684340'
 ---
