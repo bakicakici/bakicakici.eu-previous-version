@@ -2,7 +2,7 @@
 title: "Statistician Subjects: Differentiating and Defending"
 collection: publications
 permalink: /publication/2021-11-02-statistician-subjects
-excerpt: 'Francisca Grommé, Baki Cakici, Funda Ustek-Spilda, and Ville Takala'
+excerpt: 'Francisca Grommé, Baki Cakici, and Ville Takala'
 date: 2021-11-02
 venue: 'Goldsmiths Press'
 paperurl: 'https://www.gold.ac.uk/goldsmiths-press/publications/-data-practices/'
